@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on the future at [Amazon](https://www.amazon.jobs/en/job_categories/software-development).
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/mrrosoff).
-- 💬 Ask me about React, [GraphQL](https://graphql.org/), and Typescript.
-- 🧠 I am currently learning [Rust](https://www.rust-lang.org/).
+- 💬 Ask me about [React](https://reactjs.org/), [GraphQL](https://graphql.org/), and [Typescript](https://www.typescriptlang.org/).
+- 🧠 I am currently learning [Rust](https://www.rust-lang.org/) and [AWS](https://aws.amazon.com/).
 - 📫 Reach me at [me@maxrosoff.com](mailto:me@maxrosoff.com).
