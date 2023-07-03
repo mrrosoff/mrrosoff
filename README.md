@@ -6,4 +6,4 @@ I am a developer at [Amazon](https://www.amazon.jobs/en/job_categories/software-
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/mrrosoff).
 - 💬 Ask me about [React](https://reactjs.org/), [GraphQL](https://graphql.org/), and [AWS](https://aws.amazon.com/).
 - 🧠 I am currently learning [Rust](https://www.rust-lang.org/), [Kotlin](https://kotlinlang.org), and Large Language Models.
-- 📫 Reach me at [me@maxrosoff.com](mailto:me@maxrosoff.com).
+- 📫 Reach me at [me@maxrosoff.com](mailto:me@maxrosoff.com), or find me at [my website](https://maxrosoff.com)
