@@ -1,5 +1,5 @@
 <h1>Hi! I'm Max. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" /></h1>
-<p>I am a developer at [Amazon](https://www.amazon.jobs/en/job_categories/software-development) working to keep your account safe. In my free time I learn new toys and learn to fly. I am a lover of beautifully designed code, user interfaces, and frameworks.</p>
+I am a developer at [Amazon](https://www.amazon.jobs/en/job_categories/software-development) working to keep your account safe. In my free time I learn new toys and learn to fly. I am a lover of beautifully designed code, user interfaces, and frameworks.
 
 - 🔭 I’m currently working on the future of artificial intelligence based security.
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/mrrosoff).
